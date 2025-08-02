@@ -1,6 +1,6 @@
-# Fridge Guardian AI（冷蔵庫見守りAI）
+# Fridge Guardian AI(AI冷蔵庫クローザー）
 
-このリポジトリは、**IEYI 2025** に出展された作品「Fridge Guardian AI（冷蔵庫見守りAI）」で使用されたプログラムを含んでいます。  
+このリポジトリは、**IEYI 2025** に出展された作品「Fridge Guardian AI（AI冷蔵庫クローザー）」で使用されたプログラムを含んでいます。  
 The repository contains the source code used in the **Fridge Guardian AI** project exhibited at **IEYI 2025**.
 
 プログラムは **Raspberry Pi 4B** 上で実行されており、高齢者の冷蔵庫の利用状況を見守ることを目的としています。  
